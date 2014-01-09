@@ -6,4 +6,7 @@
 	,	"grunt-cli": "latest"
 	,	"grunt-contrib-jshint": "latest"
 	}
+,	"scripts": {
+		"test": "grunt --verbose"
+	}
 }
